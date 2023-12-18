@@ -1,0 +1,190 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "yash",
+      "title": "HEHEHE KYA TITLE VAI",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "HENRY",
+      "id": 9
+    },
+    {
+      "name": "",
+      "id": 10
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 11
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 12
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 13
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 14
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 15
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 17
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 18
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 19
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 20
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 21
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 23
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 24
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 25
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 26
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 27
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 28
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 29
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 30
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 31
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 32
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 33
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 34
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 35
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 36
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 37
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 38
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 39
+    },
+    {
+      "name": "VASHISTHA",
+      "age": "22",
+      "id": 40
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "name": "henry",
+      "email": "henry@.io",
+      "phn": "66512",
+      "id": 1
+    },
+    {
+      "name": "sam",
+      "email": "sam@.iiitn.ac.in",
+      "phn": "7669",
+      "id": 2
+    },
+    {
+      "name": "paul",
+      "email": "paul@gmail.com",
+      "phn": "87802",
+      "id": 3
+    }
+  ]
+}
